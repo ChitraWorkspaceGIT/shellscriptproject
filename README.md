@@ -11,6 +11,7 @@ Connect to instance
 
 ```vim aws_resource_list.sh ```
 
+Go to github gists 
 paste the script
 :wq
 
