@@ -40,4 +40,8 @@ us-east-1
 
 ```./aws_resource_list.sh us-east-1 ec2```
 
+This command is used to list the instances
+
 ```./aws_resource_list.sh us-east-1 s3```
+
+This command is used to list the s3 buckets
